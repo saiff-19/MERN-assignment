@@ -1,5 +1,9 @@
 # 🏡 Airbnb Room Booking Replica (Fleeguide Assignment)
 
+![Image](https://github.com/user-attachments/assets/26d17b09-aa85-4665-a4f1-0f191829ff98)
+
+![Image](https://github.com/user-attachments/assets/00bf4362-efeb-4215-8113-ac81e140aa0e)
+
 This project is a **Airbnb booking UI replica** of an Airbnb room listing page built as part of the **Fleeguide assignment**. The primary objective is to strengthen understanding of the **MERN stack** by implementing real-world features like booking date selection, guest dropdown management, and persistent backend storage.
 
 ---
